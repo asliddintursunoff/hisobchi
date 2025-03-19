@@ -6,6 +6,9 @@ Hisobchi is a multi-company customer relationship management system built with D
 deployed demo version of code
 Application is under the process!!!
 https://hisobchi5.pythonanywhere.com/
+account(entered some details of one Company) for login:
+phone: +998937832622
+password: Qale/0202
 
 ## Features
 - **Multi-Company Support** – Each company has its own admins and clients.
