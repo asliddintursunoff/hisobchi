@@ -2,6 +2,10 @@
 
 ## Overview
 Hisobchi is a multi-company customer relationship management system built with Django. It helps businesses manage their workers, track the total amount of production parts they complete over a month, and calculate salaries based on their work type. The system includes role-based access control and a time restriction for company usage.
+## Links
+deployed demo version of code
+Application is under the process!!!
+https://hisobchi5.pythonanywhere.com/
 
 ## Features
 - **Multi-Company Support** – Each company has its own admins and clients.
